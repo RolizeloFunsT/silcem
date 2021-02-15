@@ -16,7 +16,7 @@ exports.run = async (client, message, args) => {
 
   .addField("<a:mode:806179543911366666>| n!moderasyon",`__Botun Moderasyon Komutlarını Gösterir__`)
   
-  .addField("• | Komut",`__Botun davet linkini gösterir__`)
+  .addField("<a:puf:794480277418278992> | Komut",`__Botun davet linkini gösterir__`)
   
   .addField("• | Komut",`__tanim__`)
   
