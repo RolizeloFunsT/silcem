@@ -1,10 +1,10 @@
 {
   "name": "hello-express",
   "version": "0.0.1",
-  "description": "CodeWork v12 Boş Altyapı",
-  "main": "bot.js",
+  "description": "Star Altyapı | Canlı Destek Botu V12",
+  "main": "strogen.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node strogen.js"
   },
   "dependencies": {
     "express": "^4.17.1",
