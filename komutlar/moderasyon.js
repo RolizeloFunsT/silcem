@@ -39,7 +39,7 @@ exports.conf = {
 
   permLevel: 0,
 
-  aliases: ['help', 'h', 'y', 'yardım']
+  aliases: ['moderasyon', 'm']
 
 }
 
