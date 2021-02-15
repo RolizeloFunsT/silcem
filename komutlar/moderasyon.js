@@ -16,13 +16,13 @@ exports.run = async (client, message, args) => {
 
   .addField("<a:mode:806179543911366666>| n!moderasyon",`__Botun Moderasyon Komutlarını Gösterir__`)
   
-  .addField("• | Komut",`__Botun davet linkini gösterir__`)
+  .addField("<a:mode:806179543911366666>| Komut",`__Botun davet linkini gösterir__`)
   
-  .addField("• | Komut",`__tanim__`)
+  .addField("<a:mode:806179543911366666>| Komut",`__tanim__`)
   
-  .addField("• | Komut",`__tanim__`)
+  .addField("<a:mode:806179543911366666>| Komut",`__tanim__`)
 
-  .addField("• | Komut",`__tanım__`)
+  .addField("<a:mode:806179543911366666>| Komut",`__tanım__`)
   
   .addField("[Ekle](Bot Davet Linki) | [Destek](Destek Sunucun) " )
   
@@ -45,10 +45,10 @@ exports.conf = {
 
 exports.help = {
 
-  name: 'yardım',
+  name: 'moderasyon',
 
-  description: 'Yardım Menüsünü Açar',
+  description: 'Moderasyon Menüsünü Açar',
 
-  usage: 'yardım'
+  usage: 'moderasyon'
 
 }
